@@ -13,3 +13,4 @@ The video with the a DEMO can be found [here](https://youtu.be/XEviQP92PCk)
 
 The final product is a Tableau Dashboard with some insights about the data:
 
+<img src="https://github.com/bugarin10/databricks_job_sample/blob/main/project/static/tableau.png" alt="Tableau output">
