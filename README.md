@@ -8,7 +8,7 @@ The data is stored in the Lakehouse using Hive Metastore.
 
 Finally, the data was used to create a dashboard using Tableau.
 
-The video with the a DEMO can be found [here](https://youtu.be/XEviQP92PCk)
+The video with the DEMO can be found [here](https://youtu.be/XEviQP92PCk).
 
 
 The final product is a Tableau Dashboard with some insights about the data:
